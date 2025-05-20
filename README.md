@@ -68,6 +68,8 @@ HOSTS=$(kubectl get ingress -n meu-namespace -o jsonpath='{range .items[*]}{.spe
 🟢 JSON válido encontrado em: https://api.servico.com/v3/api-docs
 -----------------------------------------------------
 ```
+![image](https://github.com/user-attachments/assets/bf6e5cea-7d05-4943-b6d8-057c14cab3ba)
+
 
 ---
 
